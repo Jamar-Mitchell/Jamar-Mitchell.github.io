@@ -75,8 +75,8 @@ mark {
   background-position: 50% 50%;
   position: absolute;
   z-index: -999;
-  width: 200%;
-  height: 200%;
+  width: 300%;
+  height: 300%;
 }
 .content {
   display: block;
@@ -86,4 +86,8 @@ mark {
 
 Card {
   object-fit: contain;
+}
+
+html {
+  scroll-behavior: smooth;
 }

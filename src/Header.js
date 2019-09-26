@@ -21,7 +21,7 @@ function Header() {
           href="#home"
           style={{ color: "#006e6d", fontSize: "25px", fontWeight: "20px" }}
         >
-          Jamar
+          x
         </Navbar.Brand>
         <Nav className="mr-auto">
           <Nav.Link

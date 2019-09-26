@@ -7,7 +7,7 @@ const Particle = () => (
     className="background"
     params={{
       particles: {
-        number: { value: 300, density: { enable: true, value_area: 800 } },
+        number: { value: 350, density: { enable: true, value_area: 700 } },
         color: { value: "#45c56b" },
         shape: {
           type: "circle",
@@ -21,7 +21,7 @@ const Particle = () => (
           anim: { enable: false, speed: 1, opacity_min: 0.1, sync: false }
         },
         size: {
-          value: 2.75,
+          value: 2.6,
           random: true,
           anim: { enable: false, speed: 40, size_min: 0.1, sync: false }
         },

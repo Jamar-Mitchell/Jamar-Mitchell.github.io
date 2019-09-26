@@ -17,6 +17,7 @@ function About() {
     <div className="content" style={{ paddingBottom: "200px" }}>
       <Container style={{ "padding-bottom": "20px" }}>
         <Header
+          id="About"
           className="header"
           style={{
             "font-size": "50px",
