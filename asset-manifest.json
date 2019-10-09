@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/Jamar-Mitchell.github.io/static/css/main.1cc54e50.chunk.css",
-    "main.js": "/Jamar-Mitchell.github.io/static/js/main.556bbfaa.chunk.js",
-    "main.js.map": "/Jamar-Mitchell.github.io/static/js/main.556bbfaa.chunk.js.map",
+    "main.js": "/Jamar-Mitchell.github.io/static/js/main.1f75d375.chunk.js",
+    "main.js.map": "/Jamar-Mitchell.github.io/static/js/main.1f75d375.chunk.js.map",
     "runtime~main.js": "/Jamar-Mitchell.github.io/static/js/runtime~main.b4287efd.js",
     "runtime~main.js.map": "/Jamar-Mitchell.github.io/static/js/runtime~main.b4287efd.js.map",
     "static/css/2.266e55a5.chunk.css": "/Jamar-Mitchell.github.io/static/css/2.266e55a5.chunk.css",
-    "static/js/2.1a0bf55e.chunk.js": "/Jamar-Mitchell.github.io/static/js/2.1a0bf55e.chunk.js",
-    "static/js/2.1a0bf55e.chunk.js.map": "/Jamar-Mitchell.github.io/static/js/2.1a0bf55e.chunk.js.map",
+    "static/js/2.15593c42.chunk.js": "/Jamar-Mitchell.github.io/static/js/2.15593c42.chunk.js",
+    "static/js/2.15593c42.chunk.js.map": "/Jamar-Mitchell.github.io/static/js/2.15593c42.chunk.js.map",
     "index.html": "/Jamar-Mitchell.github.io/index.html",
-    "precache-manifest.72bbf3e2a69663e4a65eff3f0b1cd46c.js": "/Jamar-Mitchell.github.io/precache-manifest.72bbf3e2a69663e4a65eff3f0b1cd46c.js",
+    "precache-manifest.bfa63d30987aab1acabb85a4e6184a1a.js": "/Jamar-Mitchell.github.io/precache-manifest.bfa63d30987aab1acabb85a4e6184a1a.js",
     "service-worker.js": "/Jamar-Mitchell.github.io/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/Jamar-Mitchell.github.io/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.1cc54e50.chunk.css.map": "/Jamar-Mitchell.github.io/static/css/main.1cc54e50.chunk.css.map",
-    "static/media/cookhelper.png": "/Jamar-Mitchell.github.io/static/media/cookhelper.ed5c899d.png",
+    "static/media/cookhelper.jpg": "/Jamar-Mitchell.github.io/static/media/cookhelper.df5f9cc8.jpg",
+    "static/media/ezsponsorlogo.jpg": "/Jamar-Mitchell.github.io/static/media/ezsponsorlogo.790857b8.jpg",
     "static/media/materialspec.png": "/Jamar-Mitchell.github.io/static/media/materialspec.9d54c5c9.png",
     "static/media/me.png": "/Jamar-Mitchell.github.io/static/media/me.42a4ee85.png",
-    "static/media/tapattend.png": "/Jamar-Mitchell.github.io/static/media/tapattend.189b0668.png",
+    "static/media/tapattend.jpg": "/Jamar-Mitchell.github.io/static/media/tapattend.0884f193.jpg",
     "static/media/white.png": "/Jamar-Mitchell.github.io/static/media/white.13646829.png"
   }
 }
